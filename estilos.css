@@ -1,0 +1,30 @@
+
+ body {
+    background-color: yellow;
+  }
+  
+h1 {
+    font-family: , cursive;
+    font-size: 3rem;
+    text-align: center;
+  }
+  
+p.intro {
+    margin-left: 30%;
+    margin-right: 30%;
+    font-family: sans-serif;
+    text-align: justify;
+  }
+  
+p.latin {
+    font-family: , sans-serif;
+    font-size: 2.5rem;
+  }
+  
+p.espanol {
+    color: white;
+    font-family: , sans-serif;
+    font-size: 3.5rem;
+    text-align: right;
+  }
+  
