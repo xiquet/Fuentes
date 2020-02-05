@@ -8,26 +8,25 @@ body {
   }
   
 h1 {
-    font-family: 'Montserrat', cursive;
+    font-family: 'Montserrat', sans-serif;
     font-size: 3rem;
     text-align: center;
   }
   
-p.intro {
+p.Montserrat {
     font-family: 'Montserrat', cursive;
     margin-left: 30%;
     margin-right: 30%;
-    font-family: sans-serif;
     text-align: justify;
   }
   
-p.latin {
-    font-family: sans-serif;
+p.Oswald {
+    font-family: 'Oswald', sans-serif;
     font-size: 2.5rem;
   }
   
-p.espanol {
-    font-family: sans-serif;
+p.Kelly {
+    font-family: 'Kelly Slab', cursive;
     font-size: 3.5rem;
     text-align: right;
   }
